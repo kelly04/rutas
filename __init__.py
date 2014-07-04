@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+}# -*- coding: utf-8 -*-
 ##############################################################################
 #
 #    OpenERP, Open Source Management Solution
@@ -20,5 +20,7 @@
 ##############################################################################
 
 import rutas
-
+#comentario prueba kelly 
+def function resta(x,y):
+	return x-y
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
